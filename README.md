@@ -17,7 +17,7 @@ This project was built using plain ruby.
 
 ## Usage
 
-git clone git@github.com:JohnHernCode/tic-tac-toe.git
+git clone https://github.com/JohnHernCode/tic-tac-toe.git
 
 cd tic-tac-toe
 
