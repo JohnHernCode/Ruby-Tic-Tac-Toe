@@ -1,17 +1,8 @@
-# Advanced Building Blocks Enumerables- Microverse Ruby Project #2
+# Tic Tac Toe- Microverse Ruby Project #3
 
-This is the code for the Microverse Advanced Building Blocks Enumerables Project in the Microverse Ruby Course.
-The goal is to recreate the following Enumerables methods. 
+This is the code for the Microverse Tic Tac Toe Project in the Microverse Ruby Course.
+The goal is to create a playable Tic Tac Toe game in the command line. 
 
-1. Each
-2. Each with Index
-3. Select
-4. All?
-5. Any?
-6. None?
-7. Count
-8. Map (also include proc and default to proc if proc and block are input)
-9. Inject (also test inject with multiply_els method)
 
 ## Live Code
 
@@ -22,29 +13,29 @@ The goal is to recreate the following Enumerables methods.
 - Plain Ruby
 - Rubocop
 
-This project was built using plain ruby and its functions are to compare and swap items in an array. 
+This project was built using plain ruby. 
 
 ## Usage
 
-git clone git@github.com:JohnHernCode/Advanced-Building-Blocks-Enumerables.git
+git clone git@github.com:JohnHernCode/tic-tac-toe.git
 
-cd Advanced-Building-Blocks-Enumerables
+cd tic-tac-toe
 
 Type `ruby main.rb` in terminal
 
 ## Authors
 
-👤 **Gustavo Silva de Carvalho**
+👤 **Peter Mo Gerges**
 
-- GitHub: [@gscarv13](https://github.com/gscarv13)
-- Twitter: [@Gscarv13](https://twitter.com/Gscarv13)
-- LinkedIn: [Gustavo Carvalho](https://www.linkedin.com/in/gustavo-silva-de-carvalho-72998a156/)
+- GitHub: [@](https://github.com/gscarv13)
+- Twitter: [@](https://twitter.com/Gscarv13)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/gustavo-silva-de-carvalho-72998a156/)
 
 👤 **John hernandez**
 
 - GitHub: [johnhernandez-code](https://github.com/johnhernandez-code)
 - Twitter: [@JohnHernCode](https://twitter.com/JohnHernCode)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/john-hernandez-56a7821b8/)
+- LinkedIn: [John Hernandez](https://www.linkedin.com/in/john-hernandez-56a7821b8/)
 
 ## 🤝 Contributing
 
@@ -60,4 +51,4 @@ Thanks for the both parties involved in the development of this project.
 
 ## 📝 License
 
-This project is [MIT](https://github.com/JohnHernCode/Advanced-Building-Blocks-Enumerables/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/JohnHernCode/tic-tac-toe/blob/main/LICENSE) licensed.
