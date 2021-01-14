@@ -8,7 +8,7 @@ class Player
   end
 end
 puts '-----------------------'
-puts '    ♥          ♥'
+puts '  ♥  ♥        ♥  ♥'
 puts ' ♥     ♥   ♥       ♥'
 puts '  ♥      ♥        ♥'
 puts '   ♥  Welcome to ♥'
