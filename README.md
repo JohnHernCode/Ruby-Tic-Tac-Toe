@@ -25,7 +25,7 @@ This project was built using plain ruby.
 
 👤 **Peter Mo Gerges**
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/peter-mo-2924a7183/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akhilgkrishnan" height="30" width="30" /></a>
 <a href="https://twitter.com/MoonlighMr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mrakhilg" height="30" width="30" /></a>
 <a href="https://github.com/GuNner-pete" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="mrakhilg" height="30" width="30" /></a>
@@ -34,7 +34,7 @@ This project was built using plain ruby.
 
 👤 **John hernandez**
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/john-hernandez-56a7821b8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akhilgkrishnan" height="30" width="30" /></a>
 <a href="https://twitter.com/JohnHernCode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mrakhilg" height="30" width="30" /></a>
 <a href="https://github.com/johnhernandez-code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="mrakhilg" height="30" width="30" /></a>
