@@ -21,10 +21,6 @@ This project was built using plain ruby.
 - Run 'bin/main.rb' in your terminal to start the game.
 - Now you can play the game!
 
-cd tic-tac-toe
-
-Type `ruby main.rb` in terminal
-
 ## Authors
 
 👤 **Peter Mo Gerges**
