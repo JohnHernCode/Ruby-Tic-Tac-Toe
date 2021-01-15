@@ -31,6 +31,7 @@ while running
   puts
   puts
   puts "Ready to play #{player1.name} and #{player2.name}? Let's go!"
+  sleep(3)
 
   # Start the game loop
   board = Board.new
