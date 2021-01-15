@@ -29,9 +29,6 @@ while running
   puts ' --------------------------------------------------------------- '
   puts
   puts
-
-  system 'clear'
-
   puts "Ready to play #{player1.name} and #{player2.name}? Let's go!"
 
   # Start the game loop
