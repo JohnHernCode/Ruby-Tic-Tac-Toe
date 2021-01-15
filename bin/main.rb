@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 
+require_relative '../lib/players'
 require_relative '../lib/logic'
 
 # Instantiate the Player class

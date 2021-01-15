@@ -1,15 +1,5 @@
 # Classes
 
-class Player
-  attr_accessor :name
-  attr_reader :tag
-
-  def initialize(tag)
-    @name = ''
-    @tag = tag
-  end
-end
-
 class Board
   def initialize
     @board_grid = [
