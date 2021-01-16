@@ -33,7 +33,7 @@ Now that you have the game open, let's walk through the game play.
 - If the whole game board fills up without either X or O having three(3) boxes in a row, the game ends in a draw.
 - Once the results are in, you see who the winner is, and then you can choose to play again, or type 'n' to exit the game.
 
-Good luck and enjoy.
+Good luck, we hope you like it, and enjoy.
 
 ## Authors
 
