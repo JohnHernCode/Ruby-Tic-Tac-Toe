@@ -18,12 +18,22 @@ This project was built using plain ruby.
 ## Usage
 
 - git clone https://github.com/JohnHernCode/tic-tac-toe.git
-- Run 'bin/main.rb' in your terminal to start the game.
-- Now you can play the game!
+- cd tic-tac-toe in terminal
+- Type 'bin/main.rb' in your terminal to start the game.
 
-cd tic-tac-toe
+## Instructions to Play the Game
 
-Type `ruby main.rb` in terminal
+Now that you have the game open, let's walk through the game play.
+
+- First add the names of the two players
+- Player one will be X.
+- Player two will be O.
+- Each player will take turns picking spots on the game board.
+- Whomever fills three(3) spots in a straight line (horizontally or diagonally) first, is the winner
+- If the whole game board fills up without either X or O having three(3) boxes in a row, the game ends in a draw.
+- Once the results are in, you see who the winner is, and then you can choose to play again, or type 'n' to exit the game.
+
+Good luck and enjoy.
 
 ## Authors
 
