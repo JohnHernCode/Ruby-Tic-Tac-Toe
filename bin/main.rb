@@ -21,10 +21,10 @@ while running
   puts '        ♥   ♥'
   puts '          ♥'
   puts '----------------------'
-  puts 'X will be player one, what is your name?'
+  puts 'X will be player one, what is your cool name?'
   player1.name = gets.chomp
   puts "Hello #{player1.name}, you are now the X"
-  puts 'O will be player two, what is your name? (Please insert a nickname)'
+  puts 'O will be player two, what is your cool name?'
   player2.name = gets.chomp
   puts "Hello #{player2.name}, you are now the O"
   puts ' --------------------------------------------------------------- '
