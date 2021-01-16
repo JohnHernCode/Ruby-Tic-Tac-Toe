@@ -20,6 +20,7 @@ This project was built using plain ruby.
 - git clone https://github.com/JohnHernCode/tic-tac-toe.git
 - Run 'bin/main.rb' in your terminal to start the game.
 - Now you can play the game!
+- You will have the instructions inside the game.
 
 ## Authors
 
